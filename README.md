@@ -1,2 +1,2 @@
 # Turtle_Game
-Turtle game from 100 Days of Code
+Turtle game written in python. A knockoff version of frogger. Use the arrow keys to move and good luck.
